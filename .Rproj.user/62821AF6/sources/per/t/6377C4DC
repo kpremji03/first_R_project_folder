@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583898776086.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "269180205",
+    "id" : "6377C4DC",
+    "lastKnownWriteTime" : 1583812710,
+    "last_content_update" : 1583812710,
+    "path" : "C:/Users/karim/Desktop/first_R_project_folder/Scripts/my_first_R_Script.R",
+    "project_path" : "Scripts/my_first_R_Script.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
